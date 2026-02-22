@@ -1,0 +1,32 @@
+{
+  "Common": {
+    "appName": "Transcript Exporter",
+    "language": "Language"
+  },
+  "Home": {
+    "headline": "Paste a YouTube link, get the transcript in seconds.",
+    "inputPlaceholder": "https://www.youtube.com/watch?v=...",
+    "includeTimestamps": "Include timestamps",
+    "generate": "Generate",
+    "generating": "Generating...",
+    "copy": "Copy text",
+    "downloadTxt": "Download TXT",
+    "downloadDocx": "Download DOCX",
+    "preferredFormat": "Selected format"
+  },
+  "Errors": {
+    "INVALID_URL": "Please enter a valid YouTube URL.",
+    "VIDEO_UNAVAILABLE": "This video is unavailable (private, removed, or age-restricted).",
+    "TRANSCRIPT_NOT_AVAILABLE": "No captions/transcript available for this video.",
+    "RATE_LIMITED": "Too many requests. Please try again in a few minutes.",
+    "UNKNOWN_ERROR": "Something went wrong. Please try again."
+  },
+  "Terms": {
+    "title": "Terms of Service",
+    "body": "By using this tool, you agree to comply with applicable laws and YouTube terms. This service only exports publicly available transcripts and provides no guarantee of completeness."
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "body": "We do not store user accounts or transcripts in a database for V1. Basic temporary logs and in-memory rate limiting may be used to protect service reliability."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@playzone/youtube-transcript",
+  "version": "1.2.4",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "youtube-transcript": "^1.2.1"
+  }
+}
