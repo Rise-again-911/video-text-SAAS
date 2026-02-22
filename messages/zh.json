@@ -1,0 +1,34 @@
+{
+  "Common": {
+    "appName": "字幕导出工具",
+    "language": "语言",
+    "terms": "服务条款",
+    "privacy": "隐私政策"
+  },
+  "Home": {
+    "headline": "粘贴 YouTube 链接，几秒获取字幕文本。",
+    "inputPlaceholder": "https://www.youtube.com/watch?v=...",
+    "includeTimestamps": "包含时间戳",
+    "generate": "生成",
+    "generating": "生成中...",
+    "copy": "复制文本",
+    "downloadTxt": "下载 TXT",
+    "downloadDocx": "下载 DOCX",
+    "preferredFormat": "已选格式"
+  },
+  "Errors": {
+    "INVALID_URL": "请输入有效的 YouTube 链接。",
+    "VIDEO_UNAVAILABLE": "视频不可用（私有、删除或年龄限制）。",
+    "TRANSCRIPT_NOT_AVAILABLE": "该视频没有可用字幕。",
+    "RATE_LIMITED": "请求过多，请稍后再试。",
+    "UNKNOWN_ERROR": "发生错误，请重试。"
+  },
+  "Terms": {
+    "title": "服务条款",
+    "body": "使用本工具即表示您同意遵守适用法律和 YouTube 条款。本服务仅导出公开视频字幕，不保证完整性。"
+  },
+  "Privacy": {
+    "title": "隐私政策",
+    "body": "V1 不使用数据库存储账号或字幕。为保障稳定性，可能使用临时日志和内存限流。"
+  }
+}

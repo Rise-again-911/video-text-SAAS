@@ -1,0 +1,34 @@
+{
+  "Common": {
+    "appName": "Exportador de Transcripciones",
+    "language": "Idioma",
+    "terms": "Términos",
+    "privacy": "Privacidad"
+  },
+  "Home": {
+    "headline": "Pega un enlace de YouTube y obtén la transcripción en segundos.",
+    "inputPlaceholder": "https://www.youtube.com/watch?v=...",
+    "includeTimestamps": "Incluir marcas de tiempo",
+    "generate": "Generar",
+    "generating": "Generando...",
+    "copy": "Copiar texto",
+    "downloadTxt": "Descargar TXT",
+    "downloadDocx": "Descargar DOCX",
+    "preferredFormat": "Formato seleccionado"
+  },
+  "Errors": {
+    "INVALID_URL": "Introduce una URL de YouTube válida.",
+    "VIDEO_UNAVAILABLE": "Este video no está disponible (privado, eliminado o con restricción de edad).",
+    "TRANSCRIPT_NOT_AVAILABLE": "No hay transcripción/subtítulos para este video.",
+    "RATE_LIMITED": "Demasiadas solicitudes. Inténtalo de nuevo en unos minutos.",
+    "UNKNOWN_ERROR": "Ocurrió un error. Inténtalo de nuevo."
+  },
+  "Terms": {
+    "title": "Términos del Servicio",
+    "body": "Al usar esta herramienta, aceptas cumplir las leyes aplicables y los términos de YouTube. Este servicio solo exporta transcripciones públicas y no garantiza su integridad."
+  },
+  "Privacy": {
+    "title": "Política de Privacidad",
+    "body": "En la V1 no almacenamos cuentas ni transcripciones en base de datos. Podemos usar registros temporales y limitación en memoria para proteger la estabilidad."
+  }
+}
