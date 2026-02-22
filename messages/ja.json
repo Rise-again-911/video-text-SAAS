@@ -1,0 +1,32 @@
+{
+  "Common": {
+    "appName": "字幕エクスポーター",
+    "language": "言語"
+  },
+  "Home": {
+    "headline": "YouTubeリンクを貼るだけで、数秒で字幕を取得。",
+    "inputPlaceholder": "https://www.youtube.com/watch?v=...",
+    "includeTimestamps": "タイムスタンプを含める",
+    "generate": "生成",
+    "generating": "生成中...",
+    "copy": "テキストをコピー",
+    "downloadTxt": "TXTをダウンロード",
+    "downloadDocx": "DOCXをダウンロード",
+    "preferredFormat": "選択フォーマット"
+  },
+  "Errors": {
+    "INVALID_URL": "有効なYouTube URLを入力してください。",
+    "VIDEO_UNAVAILABLE": "動画を利用できません（非公開・削除・年齢制限）。",
+    "TRANSCRIPT_NOT_AVAILABLE": "この動画には字幕がありません。",
+    "RATE_LIMITED": "リクエストが多すぎます。しばらくして再試行してください。",
+    "UNKNOWN_ERROR": "エラーが発生しました。再度お試しください。"
+  },
+  "Terms": {
+    "title": "利用規約",
+    "body": "本サービスの利用により、適用法令およびYouTube規約への遵守に同意したものとみなされます。公開字幕のみを対象とし、完全性は保証しません。"
+  },
+  "Privacy": {
+    "title": "プライバシーポリシー",
+    "body": "V1ではユーザーアカウントや字幕をDB保存しません。安定運用のため、一時ログとメモリ上のレート制限を使用する場合があります。"
+  }
+}
